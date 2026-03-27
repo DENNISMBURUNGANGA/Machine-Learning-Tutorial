@@ -12,7 +12,7 @@ This repository contains a technical tutorial on the **Vanishing Gradient Proble
 
 ## 📜 Contents
 - `Tutorial 24179558.ipynb`: Complete Python implementation and gradient tracking.
-- `Tutorial Report_24179558 (1).pdf`: Formal tutorial document with mathematical analysis and results.
+- `Tutorial Report_24179558 (2).pdf`: Formal tutorial document with mathematical analysis and results.
 - `Dry_Bean_Dataset.xlsx`: Source data (UCI Machine Learning Repository).
 
 ## ⚖️ License
